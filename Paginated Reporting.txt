@@ -1,0 +1,32 @@
+Paginated Reporting:
+		a) Report data in multiple pages
+		Ex: 100 records available, I need each page 10 records and 10 pages required
+		b) Pages are printable
+		
+Since begining PBI Desktop support non paginated reporting, so companies requested Microsoft for legacy paginated reporting process, hence MS added their existing reporting process from SSRS with RDL technology. That is paginated reporting.
+
+Tool Required: Power BI Report Builder, SSRS Report Builder, or SSDT
+Language Used: RDL [Report Definition Language]
+File Extension: .rdl
+Placing Areas: Service [ with premium account] or Report Server
+Options: Service level limited options and Server level more options
+Supportive Visuals: Table, List
+
+Resume Level: Add point [ Having knowledge on Paginated Reporting and Report Builder Usage]
+	     Basic understanding on SSRS and RDL Technology.
+
+Recently Microsoft given direct paginated reporting.
+=======================================================
+Example 1:
+Pagination based on Location
+
+Example 2:
+Pagination based on number of rows [ each page 5 records]
+
+
+
+
+
+
+
+
