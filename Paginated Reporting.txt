@@ -1,3 +1,5 @@
+power bi home book
+
 Paginated Reporting:
 		a) Report data in multiple pages
 		Ex: 100 records available, I need each page 10 records and 10 pages required
@@ -20,6 +22,7 @@ Recently Microsoft given direct paginated reporting.
 Example 1:
 Pagination based on Location
 
+azure credentials
 Example 2:
 Pagination based on number of rows [ each page 5 records]
 
